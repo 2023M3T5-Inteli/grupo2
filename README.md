@@ -9,7 +9,7 @@
 ## Pink Solution
 
 ## Integrantes: 
-- <a href="">\Daniel Quintão Dávila</a>
+- <a href="">Daniel Quintão Dávila</a>
 - <a href="https://www.linkedin.com/in/emely-tavares-3575ba24a">Émely Vitória Feitosa Tavares</a>
 - <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-marcelino-4165ba24a">José Vitor Marcelino de Oliveira</a> 
 - <a href="https://www.linkedin.com/in/marcos-teixeira-37676a24a">Marcos Vinicyus Rosa Teixeira</a> 
